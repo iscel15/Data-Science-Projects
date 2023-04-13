@@ -31,21 +31,6 @@ In the Machine Learning and Deep Learning projects of this repository, we have u
 - Convolutional Neural Networks (https://keras.io/layers/convolutional/)
 
 
-## Example Projects
-
-The following is a list of example projects included in this repository:
-
-1. Predicting Heart Disease with Machine Learning (https://github.com/exampleproject1)
-2. Analyzing Customer Churn with Logistic Regression (https://github.com/exampleproject2)
-3. Text Classification with Naive Bayes (https://github.com/exampleproject3)
-4. Image Classification with CNNs (https://github.com/exampleproject4)
-5. Stock Price Prediction with LSTM (https://github.com/exampleproject5)
-6. Sentiment Analysis with NLTK (https://github.com/exampleproject6)
-7. Exploring and Visualizing Datasets with Seaborn (https://github.com/exampleproject7)
-8. Clustering with K-Means (https://github.com/exampleproject8)
-9. Dimensionality Reduction with PCA (https://github.com/exampleproject9)
-10. Recommender Systems with Collaborative Filtering (https://github.com/exampleproject10)
-
 ## Useful Repositories
 
 1. Awesome Data Science: una lista curada de recursos para aprender Data Science, incluyendo libros, cursos, herramientas y proyectos de código abierto. https://github.com/academic/awesome-datascience
