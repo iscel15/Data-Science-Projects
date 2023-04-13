@@ -46,24 +46,24 @@ The following is a list of example projects included in this repository:
 9. Dimensionality Reduction with PCA (https://github.com/exampleproject9)
 10. Recommender Systems with Collaborative Filtering (https://github.com/exampleproject10)
 
+## Useful Repositories
 
+1. Awesome Data Science: una lista curada de recursos para aprender Data Science, incluyendo libros, cursos, herramientas y proyectos de código abierto. https://github.com/academic/awesome-datascience
 
-Awesome Data Science: una lista curada de recursos para aprender Data Science, incluyendo libros, cursos, herramientas y proyectos de código abierto. https://github.com/academic/awesome-datascience
+2. Data Science Roadmap: un repositorio que proporciona una guía detallada y bien estructurada para aprender Data Science, que incluye varios recursos y proyectos de práctica. https://github.com/MrMimic/data-scientist-roadmap
 
-Data Science Roadmap: un repositorio que proporciona una guía detallada y bien estructurada para aprender Data Science, que incluye varios recursos y proyectos de práctica. https://github.com/MrMimic/data-scientist-roadmap
+3. Data Science Projects with Python: un conjunto de proyectos de Data Science prácticos y aplicados, junto con códigos y datos, que utilizan Python. https://github.com/ujjwalkarn/DataSciencePython
 
-Data Science Projects with Python: un conjunto de proyectos de Data Science prácticos y aplicados, junto con códigos y datos, que utilizan Python. https://github.com/ujjwalkarn/DataSciencePython
+4. Data Science Interview Questions: una lista de preguntas de entrevista frecuentes para aspirantes a Data Scientists, junto con respuestas y explicaciones. https://github.com/kojino/120-Data-Science-Interview-Questions
 
-Data Science Interview Questions: una lista de preguntas de entrevista frecuentes para aspirantes a Data Scientists, junto con respuestas y explicaciones. https://github.com/kojino/120-Data-Science-Interview-Questions
+5. Stanford Machine Learning Course: un repositorio que contiene todo el material, códigos y proyectos del popular curso de Machine Learning de Stanford. https://github.com/afshinea/stanford-cs-229-machine-learning
 
-Stanford Machine Learning Course: un repositorio que contiene todo el material, códigos y proyectos del popular curso de Machine Learning de Stanford. https://github.com/afshinea/stanford-cs-229-machine-learning
+6. Data Science Handbook: un libro en línea gratuito sobre Data Science, que cubre todos los aspectos, desde la recopilación de datos hasta la visualización, con códigos y ejemplos. https://github.com/jakevdp/PythonDataScienceHandbook
 
-Data Science Handbook: un libro en línea gratuito sobre Data Science, que cubre todos los aspectos, desde la recopilación de datos hasta la visualización, con códigos y ejemplos. https://github.com/jakevdp/PythonDataScienceHandbook
+7. Deep Learning Book: un libro en línea gratuito y completo sobre Deep Learning, que cubre desde los fundamentos hasta las aplicaciones avanzadas, con códigos y proyectos en TensorFlow. https://github.com/janishar/mit-deep-learning-book-pdf
 
-Deep Learning Book: un libro en línea gratuito y completo sobre Deep Learning, que cubre desde los fundamentos hasta las aplicaciones avanzadas, con códigos y proyectos en TensorFlow. https://github.com/janishar/mit-deep-learning-book-pdf
+8. Kaggle Datasets: un repositorio de conjuntos de datos interesantes y desafiantes de Kaggle, con ejemplos de proyectos y kernels de otros usuarios. https://github.com/Kaggle/datasets
 
-Kaggle Datasets: un repositorio de conjuntos de datos interesantes y desafiantes de Kaggle, con ejemplos de proyectos y kernels de otros usuarios. https://github.com/Kaggle/datasets
+9. Data Science for Everyone: un conjunto de proyectos de Data Science prácticos y fáciles de seguir, destinados a principiantes y no técnicos. https://github.com/realpython/materials/tree/master/data-science-projects
 
-Data Science for Everyone: un conjunto de proyectos de Data Science prácticos y fáciles de seguir, destinados a principiantes y no técnicos. https://github.com/realpython/materials/tree/master/data-science-projects
-
-Data Science Challenges: un conjunto de problemas y desafíos de Data Science de la vida real, que pueden ayudarte a mejorar tus habilidades y aprender nuevos conceptos. https://github.com/ashishpatel26/Data-Science-Challenges
+10. Data Science Challenges: un conjunto de problemas y desafíos de Data Science de la vida real, que pueden ayudarte a mejorar tus habilidades y aprender nuevos conceptos. https://github.com/ashishpatel26/Data-Science-Challenges
