@@ -27,12 +27,8 @@ In the Machine Learning and Deep Learning projects of this repository, we have u
 - Naive Bayes [Link](https://scikit-learn.org/stable/modules/naive_bayes.html)
 - k-Nearest Neighbors (k-NN) [Link](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - Extreme Gradient Boosting (XGBoost) [Link](https://xgboost.readthedocs.io/en/latest/)
-
-# Data Science Repository
-
-This repository contains several projects related to data science, machine learning, and deep learning. The projects are implemented in Python, using popular libraries such as scikit-learn, pandas, numpy, seaborn, matplotlib, and more.
-
-## Libraries Used
+- AdaBoost (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
+- Convolutional Neural Networks (https://keras.io/layers/convolutional/)
 
 The following is a list of additional libraries that are commonly used in data science:
 
@@ -47,20 +43,7 @@ The following is a list of additional libraries that are commonly used in data s
 - Gensim (https://radimrehurek.com/gensim/)
 - Dask (https://dask.org/)
 
-## Classification Algorithms
 
-The following is a list of classification algorithms that are commonly used in machine learning and deep learning:
-
-- Logistic Regression (https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- K-Nearest Neighbors (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
-- Decision Trees (https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
-- Random Forests (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-- Gradient Boosting (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
-- Support Vector Machines (https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
-- Naive Bayes (https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)
-- AdaBoost (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
-- Neural Networks (https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
-- Convolutional Neural Networks (https://keras.io/layers/convolutional/)
 
 ## Example Projects
 
