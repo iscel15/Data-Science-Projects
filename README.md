@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository contains several projects related to Data Science. In these projects, we have used several popular Python libraries such as Scikit-Learn, pandas, NumPy, seaborn, and Matplotlib, among others. Below is a list of ten more Python libraries that are commonly used in Data Science:
+This repository contains several projects related to Data Science. In these projects, we have used popular Python libraries. Below is a list of ten more Python libraries that are commonly used in Data Science:
 
 - TensorFlow (https://www.tensorflow.org/)
 - Keras (https://keras.io/)
